@@ -23,6 +23,13 @@ const CARDS = [
     href: "/rediii?reg=REDIII",
     color: "#059669",
   },
+  {
+    title: "EUDR",
+    desc: "EU Deforestation Regulation",
+    href: "/eudr?reg=EUDR",
+    color: "#84cc16",
+  },
+
 ];
 
 export default function Page() {
